@@ -1,12 +1,5 @@
 {
-  "name": "Repo-1.1 FanFic",
-  "version": "1.0.0",
-  "description": "FanFiction.net source for Shosetsu",
-  "sources": [
-    {
-      "name": "FanFiction.Net",
-      "url": "https://raw.githubusercontent.com/emmad-boop/Repo-1.1-fan-fic/main/src/en/FanFictionNet.lua",
-      "language": "en"
-    }
-  ]
+  "libraries": [],
+  "scripts": [],
+  "styles": []
 }
