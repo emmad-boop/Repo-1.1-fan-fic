@@ -1,5 +1,16 @@
 {
   "libraries": [],
-  "scripts": [],
+  "scripts": [
+    {
+      "name": "FanFiction.Net",
+      "fileName": "FanFictionNet",
+      "imageURL": "https://raw.githubusercontent.com/emmad-boop/Repo-1.1-fan-fic/main/icons/FanFictionNet.png",
+      "id": 7710002,
+      "lang": "en",
+      "ver": "1.0.0",
+      "libVer": "1.0.0",
+      "md5": ""
+    }
+  ],
   "styles": []
 }
